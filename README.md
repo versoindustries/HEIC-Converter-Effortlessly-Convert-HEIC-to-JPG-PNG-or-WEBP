@@ -301,3 +301,51 @@ Please ensure you have the rights to convert and use images according to their r
 
 By choosing HEIC Converter, you're opting for a seamless, efficient, and reliable solution to manage and convert your HEIC images. Experience hassle-free conversion and enjoy your images anywhere, anytime.  
 **Download Now and Start Converting!**
+
+
+## Sponsor This Project
+
+Your support helps us maintain and improve the **HEIC Image Converter**, adding new features and ensuring compatibility with the latest technologies.
+
+### Sponsorship Tiers
+
+#### Tier 1 Sponsorship - $5.00 USD per month
+
+- **Public Recognition:** 
+  - Listed in the `README.md` and on our landing page.
+- **Backlink Opportunity:** 
+  - For businesses/organizations, a backlink to a page of your choice on your website.
+
+[? **Become a Tier 1 Sponsor**](https://buy.stripe.com/4gw8zsga5eHc5bObIY)
+
+---
+
+#### Tier 2 Sponsorship - $65.00 USD per month
+
+- **All Tier 1 benefits, plus:**
+- **Priority Support:**
+  - Fast-tracked assistance with issues or inquiries.
+- **Exclusive Access:**
+  - Entry to a sponsor-only Discord channel featuring new tech releases.
+  - Influence over new features and enhancements.
+- **Thank You Package:**
+  - Personalized Verso Industries hat.
+  - Monthly limited-edition merchandise.
+
+[? **Become a Tier 2 Sponsor**](https://buy.stripe.com/dR68zsbTP42y8o000h)
+
+---
+
+### Ready to Sponsor?
+
+Click on the links above to choose your sponsorship tier and support the project. Your contributions make a significant difference!
+
+---
+
+## Our Sponsors
+
+We are grateful to our sponsors for their support. Thank you for helping us make **HEIC Image Converter** better!
+
+<!-- List of sponsors will be updated regularly -->
+
+---
