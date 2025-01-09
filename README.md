@@ -1,5 +1,3 @@
-Sure, here is the revised version of the second sample with the developer instructions and table of contents from the first sample included:
-
 # HEIC Converter: Effortlessly Convert HEIC to JPG, PNG, or WEBP
 
 **Version:** 1.1  
