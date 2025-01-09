@@ -8,6 +8,8 @@
 
 Are you looking for a reliable way to convert HEIC files to JPG or other universally compatible formats? HEIC Converter is your go-to solution for batch converting HEIC images to JPG, PNG, or WEBP formats swiftly and efficiently. Whether you're dealing with photos from your iPhone or need to process HEIC images on your PC, our converter simplifies the process, making your images accessible and editable across all platforms.
 
+**[Visit our Landing Page to Download the HEIC Converter](https://www.versoindustries.com/technologies/heic-to-jpg-converter)**
+
 ## Table of Contents
 
 - [Features](#features)
@@ -61,7 +63,7 @@ Are you looking for a reliable way to convert HEIC files to JPG or other univers
 
 **Windows Users:**
 
-1. Download the installer (HEICConverterSetup.exe) from our official website.
+1. 1. **[Download the installer (HEICConverterSetup.exe) from our official website](https://www.versoindustries.com/technologies/heic-to-jpg-converter)**
 2. Run the installer and follow the on-screen instructions.
 
 **macOS/Linux Users:**
