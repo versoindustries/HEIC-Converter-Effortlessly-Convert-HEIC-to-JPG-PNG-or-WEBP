@@ -1,3 +1,4 @@
-heic2png
-Pillow
+PyQt5 
+Pillow 
+pillow-heif
 cx_Freeze
