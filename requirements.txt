@@ -1,0 +1,3 @@
+heic2png
+Pillow
+cx_Freeze
