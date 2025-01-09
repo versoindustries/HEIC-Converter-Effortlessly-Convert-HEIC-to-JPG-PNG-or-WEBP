@@ -280,7 +280,7 @@ Yes, our converter is compatible with Windows, macOS, and Linux platforms.
 You can adjust the "Quality (1-100)" setting before conversion. A higher value retains more image detail.
 
 **Where can I get support?**  
-For assistance, contact us at michael.zimmerman@versoindustries.com or visit our GitHub page.
+For assistance, contact us at mike@versoindustries.com or visit our GitHub page.
 
 ## Enhance Your Image Workflow Today
 
