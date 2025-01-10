@@ -64,7 +64,7 @@ Are you looking for a reliable way to convert HEIC files to JPG or other univers
 **Windows Users:**
 
 1. 1. **[Download the installer (HEICConverterSetup.exe) from our official website](https://www.versoindustries.com/technologies/heic-to-jpg-converter)**
-2. Run the installer and follow the on-screen instructions.
+2. Run the installer and follow the on-screen instructions. ** Note, You may need to disable windows smartscreen to use executable. Package does not contain a CA Certificate. We are actively working on obtaining one for our softare. 
 
 **macOS/Linux Users:**
 
